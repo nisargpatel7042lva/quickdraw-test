@@ -1,12 +1,5 @@
 # quickdraw-test
 
-
-trial edit
-
+simple test 
 
 
-
-
-
-
-once more

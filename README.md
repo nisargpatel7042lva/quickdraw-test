@@ -1,5 +1,1 @@
 # quickdraw-test
-
-simple test 
-
-
